@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="protobuf-net" Version="3.2.8" />
+    <PackageReference Include="RestSharp" Version="108.0.3" />
     <PackageReference Include="SteamKit2" Version="2.4.1" />
   </ItemGroup>
 
